@@ -35,7 +35,7 @@ git clone https://github.com/gingkg/pymarl.git
 
 ### 7. 安裝其他依賴項
 ```bash
-pip install scared pyyaml tensorboard_logger cloudpickle protobuf==3.20.1
+pip install sacred pyyaml tensorboard_logger cloudpickle protobuf==3.20.1
 ```
 
 ### 8. 下載SMAC地圖至StarCraft資料夾
